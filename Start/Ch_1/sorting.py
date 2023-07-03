@@ -15,7 +15,7 @@ print(result1)
 names.sort(reverse=True)
 print(names)
 
-# TODO: To sort custom objects, we can tell the sort function which property to use
+# To sort custom objects, we can tell the sort function which property to use
 # by specifying a key function
 
 # open the data file and load the JSON
